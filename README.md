@@ -39,4 +39,4 @@ pip install pandas numpy matplotlib scikit-learn
 ## 📬 Contact
 For questions or suggestions:
 - **Author:** Ziad Lasheen  
-- **Email:** your_email@example.com
+- **Email:** ziadlasheen0@gmail.com
